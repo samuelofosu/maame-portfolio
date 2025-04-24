@@ -1,0 +1,86 @@
+@media screen and (max-width: 430px){
+    header{
+        display: block;
+        height: 100px;
+    }
+
+    p{
+        font-size: 20px;
+    }
+
+    .rich h1{
+        padding-top: 300px;
+    }
+
+    /* footer{
+        margin-top: 500px;
+    } */
+
+    .rich h1{
+        font-size: 35px;
+        text-align: center;
+    }
+
+    .rich h2{
+        color: aliceblue;
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .rich button{
+        margin-left: 8rem;
+        margin-top: 3rem;
+    }
+
+    .service1 h1{
+        font-size: 50px;
+        padding-top: 100px;
+    }
+
+    .service1 h2{
+        font-size: 25px;
+    }
+
+    .service2{
+        display: block;
+        height: 0;
+    }
+
+    .service3{
+        margin-top: 20px;
+        margin-left: 4.5rem;
+    }
+
+    .service4{
+        display: block;
+        margin-top: 1000px;
+        height: 1000px;
+    }
+
+    .service4 p{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .about2{
+        display: block;
+        margin-left: 30px;
+        margin-right: 50px;
+    }
+
+    .about2 img{
+        width: 300px;
+        margin-top: 0;
+        margin-left: 0;
+    }
+
+    .aboutimg img{
+        width: 300px;
+        margin-left: 0;
+    }
+
+    .aboutimgs img{
+        margin-left: 0;
+        width: 300px;
+    }
+}
